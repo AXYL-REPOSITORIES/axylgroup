@@ -27,27 +27,27 @@ brands_carousel:
 # features
 features:
   enable: true
-  subtitle: "Special Features"
-  title: "Elements to <br> get you started"
-  description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
+  subtitle: "Présentation"
+  title: "Axyl Group"
+  description: "Nous développons et exploitons des applications mobiles et webs <br> de dernières générations. Axyl Group c'est aussi un département com: <br> conception et réalisation de tous vos supports de communication."
   features_blocks:
   - icon: "las la-lock"
-    title: "Updated Security"
+    title: "Impression Numérique"
     content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
   - icon: "las la-magnet"
-    title: "Magnetic Turning"
+    title: "Enseignements"
     content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
   - icon: "las la-tachometer-alt"
-    title: "Secured &amp; up-to-date"
+    title: "Dévellopement Web &amp; Mobil"
     content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
   - icon: "las la-link"
-    title: "Instant Link Sharing"
+    title: "Reportage &amp; Spot"
     content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
   - icon: "las la-lock"
-    title: "Updated Security"
+    title: "Animation 2D &amp; 3D"
     content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
   - icon: "las la-magnet"
-    title: "Magnetic Turning"
+    title: "Stratégie De Communication"
     content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Neque enim id diam ornare volutpat in sagitis, aliquet. Arcu cursus"
 
 
@@ -57,7 +57,7 @@ intro_video:
   subtitle: "Short Intro Video"
   title: "Built exclusively for you"
   description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi egestas <br> Werat viverra id et aliquet. vulputate egestas sollicitudin."
-  video_url: "https://www.youtube.com/embed/dyZcRRWiuuw"
+  video_url: "https://www.youtube.com/embed/xg5bOKCD8fk"
   video_thumbnail: "images/video-popup.jpg"
 
 
