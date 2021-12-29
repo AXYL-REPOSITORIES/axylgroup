@@ -1,12 +1,12 @@
 # main menu
 [[main]]
-name = "Home"
+name = "Accueil"
 url = ""
 weight = 1
 
 [[main]]
-name = "About"
-url = "about/"
+name = "À propos"
+url = "a-propos/"
 weight = 2
 
 [[main]]
@@ -16,31 +16,25 @@ weight = 3
 
 [[main]]
 weight = 4
-name = "Pages"
+name = "Produits"
 hasChildren = true
 
   [[main]]
-  parent = "Pages"
-  name = "Blog Details"
+  parent = "Produits"
+  name = "Axyl Drive"
   url = "blog/post-1/"
   weight = 1
 
   [[main]]
-  parent = "Pages"
-  name = "Terms & Conditions"
+  parent = "Produits"
+  name = "Termes et Conditions"
   url = "terms-and-conditions/"
   weight = 7
-  
-[[main]]
-name = "Contact"
-url = "contact/"
-weight = 5
-
 
 # footer menu
 [[footer]]
-name = "About"
-url = "about/"
+name = "À propos"
+url = "a-propos/"
 weight = 1
 
 [[footer]]
@@ -49,11 +43,11 @@ url = "blog/"
 weight = 2
 
 [[footer]]
-name = "Blog Details"
+name = "Produits"
 url = "blog/post-1/"
 weight = 3
 
 [[footer]]
-name = "Terms & Conditions"
+name = "Termes et Conditions"
 url = "terms-and-conditions/"
 weight = 4
