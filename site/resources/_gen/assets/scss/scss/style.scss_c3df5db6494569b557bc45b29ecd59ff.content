@@ -528,6 +528,7 @@ header {
     transform: translateY(calc(-100% - 5px)); }
   @media (max-width: 767px) {
     header .navbar-brand img {
+      width: 60px;
       height: 30px; } }
   header .navbar-light .navbar-toggler {
     border-color: transparent;

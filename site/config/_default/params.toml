@@ -4,7 +4,7 @@ favicon = "images/favicon.png"
 # logo
 logo = "images/logo.svg"
 # use `x` with logo_width, example: "100x"
-logo_width = "240x"
+logo_width = "100x"
 # logo text will only show when logo is missing.
 logo_text = "Axyl Group"
 # OpenGraph / Twitter Card metadata
@@ -72,21 +72,21 @@ button_link = "https://gethugothemes.com/products/andromeda/"
 
 ############################# social site ########################
 [[social]]
-title = "Axyl Group"
+title = "Facebook Axyl Group"
 icon = "lab la-facebook-f" # https://icons8.com/line-awesome
 link = "https://www.facebook.com/AXYLGROUP"
 
 [[social]]
-title = "Axyl Group"
+title = "Twitter Axyl Group"
 icon = "lab la-twitter" # https://icons8.com/line-awesome
 link = "https://twitter.com/AxylGroup"
 
 [[social]]
-title = "Axyl Group"
+title = "Linkedin Axyl Group"
 icon = "lab la-linkedin-in" # https://icons8.com/line-awesome
 link = "https://www.linkedin.com/company/axyl-group/"
 
 [[social]]
-title = "Axyl Group"
+title = "Instagram Axyl Group"
 icon = "lab la-instagram" # https://icons8.com/line-awesome
 link = "https://www.instagram.com/axyl_drive"
