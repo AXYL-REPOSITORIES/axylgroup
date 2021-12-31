@@ -1,10 +1,10 @@
 ---
 date: "2021-07-09"
 title: "How to write a brief for a new website or app."
-image: "/images/blog/06.jpg"
+image: "/images/upload/blog-06.jpg"
 author_info: 
   name: "Abdullah Al Shifat"
-  image: "/images/author/abdullah.jpg"
+  image: "/images/upload/author-abdullah.jpg"
 draft: false
 ---
 

@@ -39,3 +39,60 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Draft", name: "draft", widget: "boolean", default: false}
           - {label: Description, name: description, widget: "text"}
           - {label: "Body", name: "body", widget: "markdown"}
+      - file: "site/content/a-propos.md"
+        label: "À propos"
+        name: "a-propos"
+        fields:
+          - {label: "Titre", name: "title", widget: "string"}
+          - {label: "Layout", name: "layout", widget: "string"}
+          - {label: "Draft", name: "draft", widget: "boolean", default: false}
+          - {label: "Qui sommes-nous ?", name: who_we_are, widget: object, fields: [
+              {label: "Activer", name: "enable", widget: "boolean", default: true},
+              {label: "Sous-titre", name: "subtitle", widget: "string"},
+              {label: "Titre", name: "title", widget: "string"},
+              {label: Description, name: description, widget: "text"},
+              {label: "Image", name: "image", widget: "image", required: false}]}
+          - {label: "Ce que nous faisons", name: what_we_do, widget: object, fields: [
+              {label: "Activer", name: "enable", widget: "boolean", default: true},
+              {label: "Sous-titre", name: "subtitle", widget: "string"},
+              {label: "Titre", name: "title", widget: "string"},
+              {label: Block, name: block, widget: list, fields: [
+                {label: "Titre", name: "title", widget: "string"},
+                {label: Contenu, name: content, widget: "text"}]}]}
+          - {label: "Notre mission", name: our_mission, widget: object, fields: [
+              {label: "Activer", name: "enable", widget: "boolean", default: true},
+              {label: "Sous-titre", name: "subtitle", widget: "string"},
+              {label: "Titre", name: "title", widget: "string"},
+              {label: Description, name: description, widget: "text"},
+              {label: "Image", name: "image", widget: "image", required: false}]}
+          - {label: "Vidéo à propos", name: about_video, widget: object, fields: [
+              {label: "Activer", name: "enable", widget: "boolean", default: true},
+              {label: "Sous-titre", name: "subtitle", widget: "string"},
+              {label: "Titre", name: "title", widget: "string"},
+              {label: Description, name: description, widget: "text"},
+              {label: "Url vidéo", name: "video_url", widget: "string"},
+              {label: "Image de la vidéo", name: "video_thumbnail", widget: "image", required: false}]}
+          - {label: "Carrousel de marques", name: brands_carousel, widget: object, fields: [
+              {label: "Activer", name: "enable", widget: "boolean", default: true},
+              {label: "Sous-titre", name: "subtitle", widget: "string"},
+              {label: "Titre", name: "title", widget: "string"},
+              {label: "Images de marque provenant de", name: "section", widget: "string"}]}
+          - {label: "Notre équipe", name: our_team, widget: object, fields: [
+              {label: "Activer", name: "enable", widget: "boolean", default: true},
+              {label: "Sous-titre", name: "subtitle", widget: "string"},
+              {label: "Titre", name: "title", widget: "string"},
+              {label: Description, name: description, widget: "text"},
+              {label: "Équipe", name: team, widget: list, fields: [
+                {label: "Nom", name: "name", widget: "string"},
+                {label: "Photo", name: "image", widget: "image", required: false},
+                {label: "Désignation", name: "designation", widget: "string"}]}]}
+          - {label: "Nos bureaux", name: our_office, widget: object, fields: [
+              {label: "Activer", name: "enable", widget: "boolean", default: true},
+              {label: "Sous-titre", name: "subtitle", widget: "string"},
+              {label: "Titre", name: "title", widget: "string"},
+              {label: Description, name: description, widget: "text"},
+              {label: "Emplacements des bureaux", name: office_locations, widget: list, fields: [
+                {label: "Ville", name: "city", widget: "string"},
+                {label: "Drapeau du pays", name: "country_flag", widget: "image", required: false},
+                {label: "Adresse ligne 1", name: "address_line_one", widget: "string"},
+                {label: "Adresse ligne 2", name: "address_line_two", widget: "string"}]}]}

@@ -1,10 +1,10 @@
 ---
 date: "2021-07-07"
 title: "What to consider before starting a business – Inside The Studio"
-image: "/images/blog/03.jpg"
+image: "/images/upload/blog-03.jpg"
 author_info: 
   name: "Abdullah Al Shifat"
-  image: "/images/author/abdullah.jpg"
+  image: "/images/upload/author-abdullah.jpg"
 draft: false
 ---
 
