@@ -29,3 +29,13 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Layout", name: "layout", widget: "string"}
           - {label: "Draft", name: "draft", widget: "boolean", default: false}
           - {label: "Image", name: "contact_image", widget: "image", required: false}
+      - file: "site/content/terms-and-conditions.md"
+        label: "Termes et Conditions"
+        name: "terms-and-conditions"
+        fields:
+          - {label: "Titre", name: "title", widget: "string"}
+          - {label: "Date Publication", name: "date", widget: "date"}
+          - {label: "Layout", name: "layout", widget: "string"}
+          - {label: "Draft", name: "draft", widget: "boolean", default: false}
+          - {label: Description, name: description, widget: "text"}
+          - {label: "Body", name: "body", widget: "markdown"}
