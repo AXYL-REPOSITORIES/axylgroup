@@ -1,10 +1,10 @@
 ---
 date: 2021-07-14
 title: The Real Product From the Buyers improvements in Overflow basis.
-image: images/01.jpg
+image: images/upload/01.jpg
 author_info:
   name: Abdullah Al Shifat
-  image: images/abdullah.jpg
+  image: images/upload/abdullah.jpg
 draft: false
 ---
 
