@@ -18,7 +18,7 @@ brands_carousel:
     - images/upload/brands-01-colored.png
     - images/upload/brands-06-colored.png
     - images/upload/brands-05-colored.png
-    - images/brands-06-colored.png
+    - images/user-img-09-i.jpg
 features:
   enable: true
   subtitle: Présentation
