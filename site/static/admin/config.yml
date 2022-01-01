@@ -96,3 +96,51 @@ collections: # A list of collections the CMS should be able to edit
                 {label: "Drapeau du pays", name: "country_flag", widget: "image", required: false},
                 {label: "Adresse ligne 1", name: "address_line_one", widget: "string"},
                 {label: "Adresse ligne 2", name: "address_line_two", widget: "string"}]}]}
+      - file: "site/content/_index.md"
+        label: "Accueil"
+        name: "_index"
+        fields:
+          - {label: "Bannière", name: banner, widget: object, fields: [
+              {label: "Titre", name: "title", widget: "string"},
+              {label: "bouton", name: "button", widget: "string"},
+              {label: "Lien du bouton", name: "button_link", widget: "string"},
+              {label: "Image", name: "image", widget: "image", required: false}]}
+          - {label: "Carrousel de marques", name: brands_carousel, widget: object, fields: [
+              {label: "Activer", name: "enable", widget: "boolean", default: true},
+              {label: "Images de marque", name: brand_images, widget: list, field:
+                {label: Image, name: image, widget: image}}]}
+          - {label: "Caractéristiques", name: features, widget: object, fields: [
+              {label: "Activer", name: "enable", widget: "boolean", default: true},
+              {label: "Sous-titre", name: "subtitle", widget: "string"},
+              {label: "Titre", name: "title", widget: "string"},
+              {label: Description, name: description, widget: "text"},
+              {label: "blocs de fonctionnalités", name: features_blocks, widget: list, fields: [
+                {label: "Icon", name: "icon", widget: "string"},
+                {label: "Titre", name: "title", widget: "string"},
+                {label: Contenu, name: content, widget: "text"}]}]}
+          - {label: "Vidéo Intro", name: intro_video, widget: object, fields: [
+              {label: "Activer", name: "enable", widget: "boolean", default: true},
+              {label: "Sous-titre", name: "subtitle", widget: "string"},
+              {label: "Titre", name: "title", widget: "string"},
+              {label: Description, name: description, widget: "text"},
+              {label: "Url vidéo", name: "video_url", widget: "string"},
+              {label: "Image de la vidéo", name: "video_thumbnail", widget: "image", required: false}]}
+          - {label: "Comment ça fonctionne", name: how_it_works, widget: object, fields: [
+              {label: "Activer", name: "enable", widget: "boolean", default: true},
+              {label: Block, name: block, widget: list, fields: [
+                {label: "Sous-titre", name: "subtitle", widget: "string"},
+                {label: "Titre", name: "title", widget: "string"},
+                {label: Description, name: description, widget: "text"},
+                {label: "Image", name: "image", widget: "image", required: false}]}]}
+          - {label: "Témoignages", name: testimonials, widget: object, fields: [
+              {label: "Activer", name: "enable", widget: "boolean", default: true},
+              {label: "Sous-titre", name: "subtitle", widget: "string"},
+              {label: "Titre", name: "title", widget: "string"},
+              {label: Description, name: description, widget: "text"},
+              {label: "Image Gauche", name: "image_left", widget: "image", required: false},
+              {label: "image Droite", name: "image_right", widget: "image", required: false},
+              {label: "Témoignages Citations", name: testimonials_quotes, widget: list, fields: [
+                {label: Citations, name: quote, widget: "text"},
+                {label: "Nom", name: "name", widget: "string"},
+                {label: "Désignation", name: "designation", widget: "string"},
+                {label: "Image", name: "image", widget: "image", required: false}]}]}
