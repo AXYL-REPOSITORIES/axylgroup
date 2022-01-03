@@ -28,7 +28,7 @@ what_we_do:
       content: Decade of engineering under his belt, Jeremie is responsible for
         technical infrastructure and feature development. In Flow, wherever
         things just work is understanding developing complex systems
-    - title: Building products
+    - title: Événementiel
       content: Decade of engineering under his belt, Jeremie is responsible for
         technical infrastructure and feature development. In Flow, wherever
         things just work is understanding developing complex systems
