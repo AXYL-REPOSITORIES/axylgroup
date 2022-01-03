@@ -61,7 +61,7 @@ our_team:
     ourselves deep in vague feedback. This made every client and team
   team:
     - name: Abib Ndiaye
-      image: images/sans-titre-1.png
+      image: images/abib.png
       designation: Directeur Général
     - name: Bukiakta Bansalo
       image: images/upload/about-team-02.jpg
