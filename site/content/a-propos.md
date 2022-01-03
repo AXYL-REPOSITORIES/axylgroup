@@ -4,8 +4,10 @@ layout: about
 draft: false
 who_we_are:
   enable: true
-  subtitle: Who We Are
-  title: Hello, We're Andromeda Here for your Help
+  subtitle: Qui sommes nous ?
+  title: "AXYL Group est une entreprise sénégalaise qui a pour activité le
+    développement et le management d'applications mobiles et web ; la conception
+    et la réalisation de supports de communication ; "
   description: Your online Health & Fitness companion that offers free assistance
     on its Facebook Group and provides quality paid guided personal training
     packages by and through website. We are the first ever, online manifesto in
@@ -61,7 +63,7 @@ our_team:
     ourselves deep in vague feedback. This made every client and team
   team:
     - name: Abib Ndiaye
-      image: images/upload/abib.jpg
+      image: images/abib.png
       designation: Directeur Général
     - name: Bukiakta Bansalo
       image: images/upload/about-team-02.jpg
