@@ -1,6 +1,6 @@
 ---
 banner:
-  title: Andromeda is the most intuitive way to prototype Designs
+  title: Bienvenue dans AXYL GROUP
   button: Get Premium Version
   button_link: https://gethugothemes.com/products/andromeda/
   image: images/upload/banner-app.png
