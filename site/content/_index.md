@@ -3,7 +3,7 @@ banner:
   title: Bienvenue dans AXYL GROUP
   button: "N'attendez plus. Osez la technologie. "
   button_link: https://gethugothemes.com/products/andromeda/
-  image: images/img_1653.jpg
+  image: images/upload/img_1653.jpg
 brands_carousel:
   enable: true
   brand_images:
@@ -18,7 +18,7 @@ brands_carousel:
     - images/upload/brands-01-colored.png
     - images/upload/brands-06-colored.png
     - images/upload/brands-05-colored.png
-    - images/user-img-09-i.jpg
+    - images/upload/user-img-09-i.jpg
 features:
   enable: true
   subtitle: Présentation
