@@ -13,18 +13,18 @@ who_we_are:
   image: images/upload/about-01.jpg
 what_we_do:
   enable: true
-  subtitle: Our Works
-  title: What We Do
+  subtitle: Nos pôles d'activités
+  title: Nos services
   block:
-    - title: Building a new class
+    - title: développer des applications
       content: Decade of engineering under his belt, Jeremie is responsible for
         technical infrastructure and feature development. In Flow, wherever
         things just work is understanding developing complex systems
-    - title: Design for anyone
+    - title: Manager des applications
       content: Decade of engineering under his belt, Jeremie is responsible for
         technical infrastructure and feature development. In Flow, wherever
         things just work is understanding developing complex systems
-    - title: Creative flair design
+    - title: Produire des supports de communication
       content: Decade of engineering under his belt, Jeremie is responsible for
         technical infrastructure and feature development. In Flow, wherever
         things just work is understanding developing complex systems
