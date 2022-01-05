@@ -63,7 +63,7 @@ our_team:
     ourselves deep in vague feedback. This made every client and team
   team:
     - name: Abib Ndiaye
-      image: images/abib.png
+      image: images/upload/abib.jpg
       designation: Directeur Général
     - name: Abdoulaye BATHILY
       image: images/upload/about-team-02.jpg
