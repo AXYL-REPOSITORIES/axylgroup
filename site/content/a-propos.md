@@ -35,8 +35,8 @@ our_mission:
   enable: true
   subtitle: OUR MISSION
   title: Main Vision And Mission Of Our Company
-  description: We were freelance designers and developers, constantly finding
-    ourselve deep vague feedback. leaving a notes from the sticky note piece .
+  description: Apporter une plus value en termes de technologie et moderniser les
+    usages en termes de téléphone et d'application.
   image: images/upload/about-02.jpg
 about_video:
   enable: true
