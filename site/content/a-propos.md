@@ -65,12 +65,27 @@ our_team:
     - name: Abib Ndiaye
       image: images/abib.png
       designation: Directeur Général
-    - name: Bukiakta Bansalo
+    - name: Abdoulaye BATHILY
       image: images/upload/about-team-02.jpg
-      designation: Product
-    - name: Ortrin Okaster
+      designation: Pésident
+    - name: Boubacar Gueye DIALLO
       image: images/upload/about-team-03.jpg
-      designation: Engineering
+      designation: Directeur Administratif et Financier
+    - name: Safra DIENG
+      designation: Assistante de Direction
+      image: images/upload/about-team-01.jpg
+    - name: Tatiana HOUNDJO
+      designation: Webmaster et Infographe
+      image: images/upload/user-img-02.jpg
+    - name: Aline Chanal SAVANE
+      designation: Community Management
+      image: images/upload/user-img-04.png
+    - name: Ousseynou DIEDHIOU
+      designation: Directeur I.T.
+      image: images/upload/user-img-10-i.jpg
+    - name: Mara FALL
+      designation: Directeur Artistique / Audiovisuel
+      image: images/upload/user-img-08-i.jpg
 our_office:
   enable: true
   subtitle: Our Offices
@@ -78,20 +93,8 @@ our_office:
   description: We were freelance designers and developers, constantly finding <br>
     ourselves deep in vague feedback. This made every client and team
   office_locations:
-    - city: NewYork, USA
-      country_flag: images/upload/about-flags-us.png
-      address_line_one: 219 Bald Hill Drive
-      address_line_two: Oakland Gardens, NY 11364
-    - city: Australia, Perth
-      country_flag: images/upload/about-flags-au.png
-      address_line_one: Flat 23 80 Anthony Circlet
-      address_line_two: Port Guiseppe, TAS 2691
-    - city: Berlin, Germany
-      country_flag: images/upload/about-flags-germany.png
-      address_line_one: Jl Raya Dewi Sartika Ged
-      address_line_two: Harapan Masa, Br Germeny
-    - city: China, Wohan
-      country_flag: images/upload/about-flags-china.png
-      address_line_one: 1hao Wen Ti Huo Dong
-      address_line_two: Zhong Xin 1ceng Jian Xing
+    - city: Sénégal, Dakar
+      country_flag: images/upload/500px-flag_of_senegal.svg.png
+      address_line_one: HLM Grand Yoff, Villa n°41
+      address_line_two: HLM Grand Yoff, Villa n°41
 ---
