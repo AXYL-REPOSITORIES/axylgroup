@@ -33,18 +33,16 @@ what_we_do:
         événements marquants. "
 our_mission:
   enable: true
-  subtitle: OUR MISSION
-  title: Main Vision And Mission Of Our Company
-  description: Apporter une plus value en termes de technologie et moderniser les
-    usages en termes de téléphone et d'application.
+  subtitle: MISSION
+  title: Vision du Group
+  description: Optimiser les Technologies dans un cadre africain et Lutter contre
+    le chômage.
   image: images/upload/about-02.jpg
 about_video:
   enable: true
-  subtitle: A Short Video
-  title: You Take Care Of The Payments, We Take Care Of The Rest.
-  description: Protect your design vision and leave nothing up to interpretation
-    with interaction recipes. Quickly share and access all your team members
-    interactions by using libraries, ensuring consistcy throughout the.
+  subtitle: Nos rushes
+  title: Promotions
+  description: AXYL drive une application de mise en relation chauffeurs / clients
   video_url: https://www.youtube.com/embed/dyZcRRWiuuw
   video_thumbnail: images/upload/about-video-popup-2.jpg
 brands_carousel:
@@ -56,8 +54,8 @@ our_team:
   enable: true
   subtitle: Notre équipe
   title: AXYL GROUP TEAM
-  description: We were freelance designers and developers, constantly finding <br>
-    ourselves deep in vague feedback. This made every client and team
+  description: AXYL GROUP Apporter une plus value en termes de technologie et
+    moderniser les usages en termes de téléphone et d'application.
   team:
     - name: Abib Ndiaye
       image: images/upload/abib.jpg
@@ -70,7 +68,7 @@ our_team:
       designation: Directeur Administratif et Financier
     - name: Safra DIENG
       designation: Assistante de Direction
-      image: images/upload/about-team-01.jpg
+      image: images/upload/safra.png
     - name: Tatiana HOUNDJO
       designation: Webmaster et Infographe
       image: images/upload/user-img-02.jpg
