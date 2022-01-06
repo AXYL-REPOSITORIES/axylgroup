@@ -20,15 +20,17 @@ what_we_do:
         simplifier votre quotidien "
     - title: Manager des applications
       content: AXYL GROUP possède ses propres applications qui sont managés et qui
-        répondent aux besoins des populations
+        répondent aux besoins des populations. Leur utilisation est simplifié
+        avec des designs attractifs.
     - title: Produire des supports de communication
-      content: Decade of engineering under his belt, Jeremie is responsible for
-        technical infrastructure and feature development. In Flow, wherever
-        things just work is understanding developing complex systems
+      content: >
+        Avec le pôle communication dénommé AXYL com, AXYL GROUP prend en charge
+        votre publicité de bout en bout depuis la conception jusqu'au support
+        final. 
     - title: Événementiel
-      content: Decade of engineering under his belt, Jeremie is responsible for
-        technical infrastructure and feature development. In Flow, wherever
-        things just work is understanding developing complex systems
+      content: "AXYL com comprend aussi un volet événementiel pour assurer aux
+        entreprises et aux particuliers l'organisation optimale de leurs
+        événements marquants. "
 our_mission:
   enable: true
   subtitle: OUR MISSION
