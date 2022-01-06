@@ -1,7 +1,7 @@
 ---
 title: À propos
 layout: about
-draft: false
+draft: true
 who_we_are:
   enable: true
   subtitle: Qui sommes nous ?
@@ -16,13 +16,11 @@ what_we_do:
   title: Nos services
   block:
     - title: développer des applications
-      content: Decade of engineering under his belt, Jeremie is responsible for
-        technical infrastructure and feature development. In Flow, wherever
-        things just work is understanding developing complex systems
+      content: "Des applications développées avec les dernières technologies pour
+        simplifier votre quotidien "
     - title: Manager des applications
-      content: Decade of engineering under his belt, Jeremie is responsible for
-        technical infrastructure and feature development. In Flow, wherever
-        things just work is understanding developing complex systems
+      content: AXYL GROUP possède ses propres applications qui sont managés et qui
+        répondent aux besoins des populations
     - title: Produire des supports de communication
       content: Decade of engineering under his belt, Jeremie is responsible for
         technical infrastructure and feature development. In Flow, wherever
