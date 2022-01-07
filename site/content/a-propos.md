@@ -68,7 +68,7 @@ our_team:
       designation: Directeur Administratif et Financier
     - name: Safra DIENG
       designation: Assistante de Direction
-      image: images/upload/safradieng.png
+      image: images/upload/about-team-01.jpg
     - name: Tatiana HOUNDJO
       designation: Webmaster et Infographe
       image: images/upload/user-img-02.jpg
